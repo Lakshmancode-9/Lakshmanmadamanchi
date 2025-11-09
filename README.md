@@ -1,143 +1,170 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Lakshman Madamanchi</span></h1>
+<!-- ========================================================= -->
+<!-- 🚀 Lakshman Madamanchi | Data Analyst | Machine Learning -->
+<!-- ========================================================= -->
+
+<h1 align="center">👋 Hey, I'm <span style="color:#0077B5;">Lakshman Madamanchi</span></h1>
+<h3 align="center">Data Analytics • Business Intelligence • Machine Learning</h3>
 
 <p align="center">
-  📊 Data Analytics Enthusiast | 🧠 Machine Learning Learner | 💡 Problem Solver  
+  <a href="mailto:lakshmanmadamanchi45@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/lakshman-madamanchi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Hyderabad,%20India-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="mailto:lakshmanmadamanchi45@gmail.com"><img src="https://img.shields.io/badge/Email-lakshmanmadamanchi45%40gmail.com-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/lakshman-madamanchi"><img src="https://img.shields.io/badge/LinkedIn-Lakshman%20Madamanchi-blue?logo=linkedin" /></a>
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-orange?logo=google-maps" />
+---
+
+## 💡 About Me
+
+I’m **Lakshman Madamanchi**, a **Data Analytics professional** with a passion for converting raw, messy data into clear, actionable insights that **power smarter decisions**.  
+I don’t just visualize numbers — I **tell data stories** that explain the “why” behind every trend.
+
+I specialize in:
+- Building **insightful dashboards** that executives actually use.
+- Writing **efficient SQL and Python scripts** that make data pipelines run smoother.
+- Turning analytics into **business growth**.
+
+📊 Data is only as powerful as the clarity behind it — that’s where I come in.
+
+---
+
+## ⚙️ Tech Arsenal
+
+### 💻 Languages & Querying
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+### 📊 Data Visualization & BI
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🧩 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🎓 Education
 
-I’m a **Data Analytics enthusiast** passionate about translating messy datasets into **clean insights and powerful visual stories**.  
-I work at the intersection of **Python, SQL, and BI tools** — automating workflows, optimizing performance, and helping businesses make sense of their data.
-
-💡 My motto: _“Numbers tell stories — you just need to know how to listen.”_
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Languages & Libraries  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-5A9?logo=python&logoColor=white)
-
-### 📊 Visualization & BI  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-
-### ⚙️ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![SAP BI](https://img.shields.io/badge/SAP%20BI-0FAAFF?logo=sap&logoColor=white)
-![Microsoft Cloud](https://img.shields.io/badge/Microsoft%20Cloud-0078D4?logo=microsoft-azure&logoColor=white)
+🎓 **B.Tech in Computer Science and Engineering**  
+📍 *Vignan Institute of Technology and Science* (2021 – 2025)  
+**Core Courses:** Data Analytics · Machine Learning · Cloud Computing · Statistics · Database Systems
 
 ---
 
-## 🎓 Education  
+## 💼 Internship Experience
 
-🎓 **B.Tech in Computer Science & Engineering**  
-📍 *Vignan Institute of Technology and Science (2021 – 2025)*  
-
-**Relevant Coursework:**  
-_Data Analytics • Machine Learning • Cloud Computing • Database Systems • Statistics_
-
----
-
-## 💼 Experience  
-
-### 🧩 Data Analytics Intern — *AICTE | Microsoft | SAP*  
+### 🔹 Data Analytics Intern — *AICTE | Microsoft | SAP*  
 📅 Feb 2025 – Apr 2025  
-- Designed **analytics dashboards** for enterprise systems using *Microsoft Cloud* and *SAP BI*.  
-- Automated data pipelines — boosted data refresh speed by **25%**.  
-- Collaborated in an **Agile** setup to convert business goals into **data insights**.  
+- Developed **cloud-based analytics dashboards** integrating Microsoft Cloud & SAP BI.  
+- Automated data pipelines and reporting, improving refresh speeds by **25%**.  
+- Worked in **Agile teams** to convert business requirements into analytics-ready modules.
 
 ---
 
-## 🧰 Projects  
+## 🧠 Featured Projects
 
-### 🧠 Employee Performance Analytics  
-🛠 *Python, pandas, matplotlib, seaborn*  
-- Processed **5K+ employee records** to uncover retention and performance drivers.  
-- Built automated cleaning pipelines (⏱ reduced manual effort by **40%**).  
-- Delivered dashboards influencing **HR decision-making**.  
-
-### 🛒 E-commerce Sales Data Analysis  
-🛠 *Power BI, SQL, Excel*  
-- Built a **Power BI dashboard** tracking revenue, customer segments & product performance.  
-- Optimized **SQL** queries for automated refresh (+30% efficiency).  
-- Helped identify **top-performing regions & marketing opportunities**.  
-
-### 🕵️ Phishing Website Detection (ML Project)  
-🛠 *Python, Flask, XGBoost, MySQL*  
-- Achieved **96% accuracy** using XGBoost for phishing detection.  
-- Deployed a **Flask dashboard** for real-time monitoring.  
-- Applied **feature importance** for better interpretability.  
+### 📈 Employee Performance Analytics
+**Tech:** Python · pandas · matplotlib · seaborn  
+- Analyzed **5,000+ employee records** to identify retention and performance patterns.  
+- Built KPI dashboards to guide HR decisions.  
+- Automated cleaning & visualization scripts — cutting manual work by **40%**.
 
 ---
 
-## 🏅 Certifications  
-
-- 🧾 **Data Analytics Certification** — Deloitte (2025)  
-- 📈 **Data Science 101** — IBM (2025)  
-- 🐍 **Python** — HackerRank (2024)  
-- 🧮 **SQL** — HackerRank (2025)  
-
----
-
-## 🏆 Achievements  
-
-🏅 **3rd Place** — *Digital India Innovative Project Expo 2024*  
-💡 Recognized for delivering **data-driven solutions** with measurable business impact.  
+### 🛍️ E-commerce Sales Dashboard
+**Tech:** Power BI · SQL · Excel  
+- Designed an **interactive Power BI dashboard** tracking regional performance and revenue trends.  
+- Automated SQL refresh pipelines, improving update efficiency by **30%**.  
+- Delivered insights that shaped product and marketing decisions.
 
 ---
 
-## 🌐 Languages  
-
-🇬🇧 English (Fluent)  
-🇮🇳 Telugu (Native)  
-🇮🇳 Hindi (Professional)  
-
----
-
-## 💬 Soft Skills  
-
-🧩 Data Storytelling  
-🧠 Problem Solving  
-🤝 Team Communication  
-🚀 Continuous Learning  
+### 🧠 Phishing Website Detection (ML)
+**Tech:** Python · Flask · XGBoost · MySQL  
+- Built a **96% accurate model** for phishing website detection.  
+- Deployed via Flask dashboard for **real-time predictions**.  
+- Enhanced transparency using **feature importance** for model interpretability.
 
 ---
 
-## ⚡ What Drives Me  
+## 🏅 Certifications
 
-> “The goal isn’t just to analyze data — it’s to create clarity, drive action, and build smarter systems.”
-
-If you’re working on **data analytics, BI, or automation projects**, let’s connect 👇  
-
-📫 [lakshmanmadamanchi45@gmail.com](mailto:lakshmanmadamanchi45@gmail.com)  
-🔗 [linkedin.com/in/lakshman-madamanchi](https://linkedin.com/in/lakshman-madamanchi)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshmanmadamanchi&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmanmadamanchi&layout=compact&theme=tokyonight" height="180"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Certified-0077B5?style=for-the-badge&logo=deloitte&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-Data%20Science%20101-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-Python%20(Advanced)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </p>
 
 ---
 
+## 🏆 Achievements
+
+🥉 **3rd Place** — *Digital India Innovative Project Expo 2024*  
+Recognized for developing a **data-driven solution** delivering measurable business value.
+
+---
+
+## 🧰 Soft Skills
+
+| Skill | Description |
+|-------|--------------|
+| **Data Storytelling** | Transforming analytics into clear narratives for decision-makers. |
+| **Problem Solving** | Structuring and breaking down complex data challenges. |
+| **Collaboration** | Working cross-functionally in fast-paced Agile setups. |
+| **Continuous Learning** | Always upgrading in Data Science, BI, and ML Ops. |
+
+---
+
+## 🌍 Languages
+
+**English** · **Telugu** · **Hindi**
+
+---
+
+## ⚡ Beyond the Screen
+
+☕ Coffee & clean datasets = perfect combo  
+📚 Always exploring **MLOps**, **Cloud Analytics**, and **AI in Business Intelligence**  
+📊 Believe in data that *explains, not confuses*  
+
+---
+
+## 📫 Connect with Me
+
 <p align="center">
-  ✨ “Turning data chaos into clarity, one query at a time.” ✨  
+  <a href="mailto:lakshmanmadamanchi45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/lakshman-madamanchi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
 </p>
+
+---
+
+<h3 align="center">⭐ “Data doesn’t lie — it just needs someone who knows how to make it talk.” ⭐</h3>
+
