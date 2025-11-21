@@ -34,10 +34,10 @@
 ## 💡 About Me
 
 I’m **Lakshman Madamanchi**, a passionate **Junior Data Analyst** who loves turning chaos into clarity through data.  
-I specialize in **data storytelling**, **automation**, and **dashboard design** that drives business impact — not just pretty visuals.  
+I specialize in **data storytelling**, **automation**, and **dashboard design** that drives business impact — not just pretty visuals.
 
 💬 I thrive on making data **understandable**, **actionable**, and **insightful**.  
-⚡ Curious mind + analytical thinking = data solutions that make sense.  
+⚡ Curious mind + analytical thinking = data solutions that make sense.
 
 > “Data tells a story — I make sure everyone understands it.”
 
@@ -74,7 +74,7 @@ I specialize in **data storytelling**, **automation**, and **dashboard design** 
 
 🎓 **B.Tech in Computer Science and Engineering**  
 📍 *Vignan Institute of Technology and Science* (2021 – 2025)  
-**Core Courses:** Data Analytics · Machine Learning · Cloud Computing · Database Systems · Statistics  
+**Core Courses:** Data Analytics · Machine Learning · Cloud Computing · Database Systems · Statistics
 
 ---
 
@@ -84,7 +84,7 @@ I specialize in **data storytelling**, **automation**, and **dashboard design** 
 📅 Feb 2025 – Apr 2025  
 - Designed **interactive analytics dashboards** using Microsoft Cloud & SAP BI.  
 - Automated **data pipelines**, improving refresh speed by **25%**.  
-- Worked in **Agile teams**, converting business problems into data-driven insights.  
+- Worked in **Agile teams**, converting business problems into data-driven insights.
 
 ---
 
@@ -94,7 +94,7 @@ I specialize in **data storytelling**, **automation**, and **dashboard design** 
 **Tech:** Python · pandas · matplotlib · seaborn  
 - Analyzed **5,000+ employee records** for key retention and performance drivers.  
 - Built visual HR dashboards that informed executive decisions.  
-- Automated reporting — reducing manual effort by **40%**.  
+- Automated reporting — reducing manual effort by **40%**.
 
 ---
 
@@ -102,7 +102,7 @@ I specialize in **data storytelling**, **automation**, and **dashboard design** 
 **Tech:** Power BI · SQL · Excel  
 - Created a **real-time Power BI dashboard** tracking revenue & customer trends.  
 - Optimized SQL queries to enable **auto-refresh** and faster reporting.  
-- Highlighted KPIs that improved marketing ROI.  
+- Highlighted KPIs that improved marketing ROI.
 
 ---
 
@@ -110,7 +110,7 @@ I specialize in **data storytelling**, **automation**, and **dashboard design** 
 **Tech:** Python · Flask · XGBoost · MySQL  
 - Developed a **96% accurate model** to detect phishing websites.  
 - Deployed via a **Flask web app** for real-time predictions.  
-- Explained model results with **feature importance visualization**.  
+- Explained model results with **feature importance visualization**.
 
 ---
 
@@ -128,19 +128,19 @@ I specialize in **data storytelling**, **automation**, and **dashboard design** 
 ## 🏆 Achievements  
 
 🥉 **3rd Place** — *Digital India Innovative Project Expo 2024*  
-🏅 Recognized for developing a **data-driven business solution** with measurable impact.  
+🏅 Recognized for developing a **data-driven business solution** with measurable impact.
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lakshman001l&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshman001l&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lakshmancode-9&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmancode-9&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshman001l&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmancode-9&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -171,7 +171,7 @@ I specialize in **data storytelling**, **automation**, and **dashboard design** 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lakshman001l&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=Lakshmancode-9&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="views"/>
 </p>
 
 <h3 align="center">⭐ “Data doesn’t lie — it just needs someone who knows how to make it talk.” ⭐</h3>
